@@ -5,13 +5,13 @@ adăugarea de noi rețete. Scopul aplicației este de a îngloba cât mai multe 
 culinare, care oferă indicații pas cu pas pentru gătirea acestora, prezintă lista de ingrediente, 
 menționând și numărul de calorii, alături de timpul de preparare.
 
-## Funcționalități
-- Prezintă toate operațiile CRUD, fiecare dintre acestea fiind exemplificate într-un ecran separat. 
-
 ## Tehnologii
 
 - Limbaj de programare: Dart, utilizând framework-ul Flutter 
 - Bază de date: date salvate în memorie
+
+## Funcționalități
+- Prezintă toate operațiile CRUD, fiecare dintre acestea fiind exemplificate într-un ecran separat. 
 
 ## DEMO al aplicației
 
